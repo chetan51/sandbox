@@ -4,7 +4,7 @@ An implementation of Jeremy Kun's article [Learning a single-variable polynomial
 
 ## Usage
 
-First, run `python polynomial.py` to generate a polynomial. Then run `guesser.py` to have it guess your generated polynomial
+First, run `python polynomial.py` to generate a polynomial. Then run `guesser.py` to have it guess your generated polynomial using adaptive querying.
 
 ## Example
 
