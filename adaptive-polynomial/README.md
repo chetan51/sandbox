@@ -24,7 +24,7 @@ First, run `python polynomial.py` to generate a polynomial. Then run `guesser.py
     a4 = 2
 
     Using polynomial:
-    p(x) = 39N^0 + 48N^1 + 3N^2 + 40N^3 + 2N^4
+    p(x) = 39x^0 + 48x^1 + 3x^2 + 40x^3 + 2x^4
 
     p(1) = 132
     p(132 + 1) = p(133) = 719966412
@@ -39,4 +39,4 @@ First, run `python polynomial.py` to generate a polynomial. Then run `guesser.py
     > 719966412
 
     Your polynomial, p(x), is:
-    p(x) = 39N^0 + 48N^1 + 3N^2 + 40N^3 + 2N^4
+    p(x) = 39x^0 + 48x^1 + 3x^2 + 40x^3 + 2x^4

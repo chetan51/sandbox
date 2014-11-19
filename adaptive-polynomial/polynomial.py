@@ -14,7 +14,7 @@ for i in range(d):
 
 print
 print "Using polynomial:"
-print "p(x) = " + " + ".join(["{0}N^{1}".format(coefficients[n], n) for n in range(d)])
+print "p(x) = " + " + ".join(["{0}x^{1}".format(coefficients[n], n) for n in range(d)])
 print
 
 p1 = sum(coefficients)
